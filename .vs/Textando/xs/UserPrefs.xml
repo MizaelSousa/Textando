@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2335C2BD-202C-4349-A840-A990FE27B192}|Default">
+  <MonoDevelop.Ide.ItemProperties.Textando FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Textando.Android FirstBuild="True" PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Textando/MainPage.xaml">
+    <Files>
+      <File FileName="Textando/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Textando/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Textando.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
